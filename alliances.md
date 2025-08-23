@@ -1,9 +1,3 @@
----
-description: Règles sur les alliances et accords commerciaux
----
+# Les Alliances 🤝
 
-# Alliances 🤝
-
-Les alliances sont interdites. En revanche, les accords commerciaux sont autorisés: missionner un autre groupe contre rémunération (argent, armes, drogue, informations), si cohérents et justifiables.
-
-
+Les alliances ne sont pas autorisées. Cependant, il est autorisé d'établir des accords commerciaux avec d'autres groupes. Un groupe peut également missionner un autre pour réaliser une action en échange de rémunérations telles que de l'argent, des armes, de la drogue ou des informations. Ces échanges doivent rester cohérents et justifiables.

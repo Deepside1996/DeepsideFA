@@ -1,15 +1,9 @@
----
-description: Informations sur la reprise et la gestion d’entreprises
----
-
 # Les Entreprises 🏢
 
-Les joueurs peuvent reprendre une entreprise disponible via un dossier clair et concis (idées, motivations). Pas besoin d’un roman: soyez structurés et efficaces.
+Les joueurs ont la possibilité de reprendre une entreprise disponible en soumettant un dossier présentant leurs idées et motivations. Il n'est pas nécessaire de rédiger une dissertation : un contenu clair, structuré et allant à l'essentiel est suffisant.
 
-## Attentes
-- Types: restauration, commerce, services, transport…
-- Recrutement, contrats, annonces
-- Communication via Weazel News recommandée (non obligatoire)
-- Présence minimale exigée pour éviter l’abandon
-- Les patrons ne peuvent pas se servir dans la caisse d'entreprise pour ses propres dépenses
+* Types d'entreprises disponibles (restauration, commerce, services, transport…)  
+* Systèmes de recrutement / contrats / annonces  
+* Communication via Weazel News (recommandé mais non obligatoire)
 
+Un minimum de présence est exigé de la part des futurs gérants d'entreprise, afin d'éviter que celles-ci ne soient laissées à l'abandon.
