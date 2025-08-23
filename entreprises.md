@@ -11,5 +11,5 @@ Les joueurs peuvent reprendre une entreprise disponible via un dossier clair et 
 - Recrutement, contrats, annonces
 - Communication via Weazel News recommandée (non obligatoire)
 - Présence minimale exigée pour éviter l’abandon
-
+- Les patron ne peuvent pas ce servir dans la caisse d entreprise pour c est propre depense
 
