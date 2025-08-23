@@ -5,5 +5,5 @@ Les joueurs ont la possibilité de reprendre une entreprise disponible en soumet
 * Types d'entreprises disponibles (restauration, commerce, services, transport…)  
 * Systèmes de recrutement / contrats / annonces  
 * Communication via Weazel News (recommandé mais non obligatoire)
-
+*Un patron n’a pas le droit de prendre l’argent de l’entreprise pour ses dépenses personnelles.
 Un minimum de présence est exigé de la part des futurs gérants d'entreprise, afin d'éviter que celles-ci ne soient laissées à l'abandon.
