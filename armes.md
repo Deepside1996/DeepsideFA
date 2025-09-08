@@ -19,4 +19,4 @@ Seuls les passagers d'un véhicule peuvent éventuellement ouvrir le feu (driveb
 
 ## Les courses poursuites
 
-Lors d'une course-poursuite, après 10 minutes, il est autorisé d'ouvrir le feu en visant uniquement les roues du véhicule poursuivi afin de le stopper. En cas de riposte, l'échange de tirs peut être engagé. Une cohérence stricte est attendue de la part des joueurs afin de garantir une utilisation équitable de cet avantage, sans abus.
+Lors d'une course-poursuite, après 5 minutes, il est autorisé d'ouvrir le feu en visant uniquement les roues du véhicule poursuivi afin de le stopper. En cas de riposte, l'échange de tirs peut être engagé. Une cohérence stricte est attendue de la part des joueurs afin de garantir une utilisation équitable de cet avantage, sans abus.

@@ -109,6 +109,11 @@ Si votre personnage tombe dans le coma et réapparaît à l'hôpital sans soins,
 
 Si votre personnage est pris en charge et soigné par les EMS sur place ou à l'hôpital, vous devez appliquer une amnésie partielle (vous oubliez uniquement les circonstances immédiates de l'accident, vous vous rappelez de quelques détails très vagues).
 
+## Utilisation du vélo, skateboard et trottinette 🛴
+
+Le vélo, le skateboard, la trottinette sont des items de l’inventaire et doivent être utilisés avec parcimonie et cohérence RP. Il est strictement interdit de sortir ces items “de nulle part” en pleine scène (par exemple : l’utiliser pour fuir une intervention de police, une agression ou tout autre événement en cours). Ces items doivent être sortis et utilisés uniquement dans des contextes logiques et immersifs, comme si votre personnage l’avait réellement stationné ou transporté.
+
+
 ## La mort RP ☠️
 
 Une fois mort RP vous devez oublier TOUT ce qui est relié à votre ancien personnage.

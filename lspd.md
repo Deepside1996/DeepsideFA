@@ -10,6 +10,10 @@ En cas de braquage, l'assaut peut être donné si un otage est violenté.
 
 Il est interdit de laisser un joueur seul en prison pendant une période prolongée. Les agents doivent privilégier les scènes interactives (comme les TIG) et appliquer des peines de courte durée. Le but est de maintenir une expérience de jeu agréable, sans priver les joueurs de leur temps de jeu derrière les barreaux.
 
+## Course poursuite
+
+Pour la LSPD, lors d’une course-poursuite, la manœuvre de PIT n’est autorisée qu’après 5 minutes de poursuite en restant cohérent afin de garantir la sécurité des occupants et des citoyens autour.
+
 ## Prise d'otage
 
 Lorsqu'un agent est en civil, il est considéré comme un citoyen lambda et peut donc être pris en otage. Même en uniforme, il peut être pris en otage si le groupe en face a un grief personnel contre lui ou s'il s'agit d'une scène spécifique justifiant cet acte.

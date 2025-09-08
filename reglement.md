@@ -229,7 +229,7 @@ Restrictions:
 - Pas de braquage en moto (vente de drogue en moto autorisée)
 - Pas d’appels d’entreprises pour les braquer
 - Pas de retour dans son quartier en poursuite
-- PIT par gangs autorisé après 10 min (immobiliser, pas accident majeur)
+- PIT par gangs autorisé après 5 min (immobiliser, pas accident majeur)
 - Pas de faux otages complices
 - Max 10 participants sur scène; faire preuve de fairplay vis-à-vis de la LSPD
 - Otages obligatoirement à l’intérieur du bâtiment
