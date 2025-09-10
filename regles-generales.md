@@ -113,6 +113,18 @@ Si votre personnage est pris en charge et soigné par les EMS sur place ou à l'
 
 Le vélo, le skateboard, la trottinette sont des items de l’inventaire et doivent être utilisés avec parcimonie et cohérence RP. Il est strictement interdit de sortir ces items “de nulle part” en pleine scène (par exemple : l’utiliser pour fuir une intervention de police, une agression ou tout autre événement en cours). Ces items doivent être sortis et utilisés uniquement dans des contextes logiques et immersifs, comme si votre personnage l’avait réellement stationné ou transporté.
 
+## Le Gruppe 6 💵
+
+Le Groupe 6 est une entreprise de sécurité privée et de transport de fonds. Ce job est en libre accès, chacun peut donc y postuler et rejoindre l’équipe.
+
+⚖️ Intégrité avant tout :
+Le Groupe 6 se veut **incorruptible**. Ses agents ont pour mission de protéger les biens et de sécuriser les transferts d’argent ou de marchandises, sans jamais céder à la tentation d’activités illégales.
+
+🚫 Interdiction du côté illégal :
+Contrairement à d’autres métiers, le Groupe 6 est strictement interdit d’accès au monde illégal. Ses employés doivent représenter l’ordre, la confiance et la loyauté.
+
+💼 Un rôle ouvert et important :
+Accessible à tous, ce job permet de découvrir le rôleplay de sécurité et de protection, tout en offrant une immersion réaliste et essentielle à la vie du serveur. Cela pimentera votre RP civil !
 
 ## La mort RP ☠️
 
